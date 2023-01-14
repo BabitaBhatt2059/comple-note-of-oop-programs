@@ -25,8 +25,7 @@ int main(){
     c2.setcode();
     BCE ::showcount();
     BCE c3;
-    c3.setcode();
-    BCE::showcount();
+    c3.setcode();    BCE::showcount();
     c1.showcode();
     c2.showcode();
     c3.showcode();
